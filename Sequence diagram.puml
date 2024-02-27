@@ -1,0 +1,21 @@
+@startuml
+actor User
+participant "Web Application" as App
+database "Database" as DB
+
+activate User
+
+User -> App: Request Book Information
+activate App
+
+App -> DB: Retrieve Book Details
+activate DB
+
+DB --> App: Book Details
+deactivate DB
+
+App --> User: Display Book Information
+deactivate App
+
+deactivate User
+@enduml

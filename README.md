@@ -11,12 +11,12 @@ Laravel Lumen is a stunningly fast PHP micro-framework for building web applicat
 
 ## Entity Relation Diagram
 
-![UML-Activity](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/fread04/APIForOnlineLibrary/main/uml/ERDiagram.puml)
+![UML-Activity](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/fread04/APIForOnlineLibrary/master/uml/ERDiagram.puml)
 
 ## Class Diagram
 
-![UML-Activity](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/fread04/APIForOnlineLibrary/main/uml/ClassDiagram.puml)
+![UML-Activity](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/fread04/APIForOnlineLibrary/master/uml/ClassDiagram.puml)
 
 ## Sequence Diagram
 
-![UML-Activity](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/fread04/APIForOnlineLibrary/main/uml/SequenceDiagram.puml)
+![UML-Activity](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/fread04/APIForOnlineLibrary/master/uml/SequenceDiagram.puml)
